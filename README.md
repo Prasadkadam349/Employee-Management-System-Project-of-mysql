@@ -23,6 +23,6 @@ Follow these steps to set up the Employee Management System:
 Open your terminal or command prompt and run the following command to clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Employee-Management-System.git
+git clone https://github.com/Prasadkadam349/Employee-Management-System.git
 cd Employee-Management-System
 
